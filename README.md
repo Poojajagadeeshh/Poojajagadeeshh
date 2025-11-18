@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi 👋 I'm Pooja Jagadeesh
 
-<!--
-**Poojajagadeeshh/Poojajagadeeshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student | AI & ML enthusiast  
+🔬 Working on: **Multilingual Phishing Detection System** (Python · scikit-learn · Flask)  
+💻 Skills: Python • Machine Learning • Flask • HTML/CSS • Git
 
-Here are some ideas to get you started:
+### Projects
+- **Multilingual Phishing Detector** — ML-based email & URL classifier (Repo: phishing-detector)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- LinkedIn: [https://www.linkedin.com/in/pooja-jagadeeshh](https://www.linkedin.com/in/pooja-jagadeesh-b6b171330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+  
+- Email: poojajagadeesh2005@gmail.com
+
+> Always learning. Open to collaborations & internships!
+
