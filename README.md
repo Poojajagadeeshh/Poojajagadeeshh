@@ -1,7 +1,7 @@
  Hi 👋 I'm Pooja Jagadeesh
 
 🎓 Computer Science student | AI & ML enthusiast  
-🔬 Working on: **Multilingual Phishing Detection System** (Python · scikit-learn · Flask)  
+🔬 Working on: KALINOVA project  
 💻 Skills: Python • Machine Learning • Flask • HTML/CSS • Git
 
 ### Projects
